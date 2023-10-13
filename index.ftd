@@ -41,12 +41,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Swapnil
-avatar: $assets.files.images.naruto.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Swapnil Kottewar
+avatar: $assets.Users.student.Pictures.naruto.jpg
+city: Nagpur
+github-url: https://www.github.com/swapnilkottewar
+linkedin-url: https://www.linkedin.com/swapnil kottewar
+instagram-url: https://www.instagram.com/almighty_swapnil
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -106,12 +106,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.naruto.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Swapnil Kottewar
+avatar: $assets.Users.student.Pictures.naruto.jpg
+city: Nagpur
+github-url: https://www.github.com/swapnilkottewar
+linkedin-url: https://www.linkedin.com/swapnil kottewar
+instagram-url: https://www.instagram.com/almighty_swapnil
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
