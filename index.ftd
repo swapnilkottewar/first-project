@@ -41,8 +41,8 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
+-- profile.wrapper: Swapnil
+avatar: $assets.files.images.naruto.jpg
 city: London
 github-url: https://www.github.com/
 linkedin-url: https://www.linkedin.com/
@@ -107,7 +107,7 @@ border-radius.px: 10
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
 -- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
+avatar: $assets.files.images.naruto.jpg
 city: London
 github-url: https://www.github.com/
 linkedin-url: https://www.linkedin.com/
